@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0a2a1a7ce40f3a44fbcdf1fca7bc96b2, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  id: 4
+  flavorTextsName: FlavorTexts4
+  gender: 2
+  flavorTextType: 6
+  flavorTexts:
+  - Speaks to herself.
+  - Sings all the time.
+  - Whistles loudly.
+  - Often chuckles for no reason.
+  - Likes to touch people.
+  - Is a close talker.
+  - Hums a tune softly.
+  - Gesticulates wildly.
+  - Coughs a lot.
+  - Pokes people with one finger while talking.

@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0912502002c35c7448cebfae9d47c241, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  id: 2
+  etnicityName: Asian
+  skinColorList: {fileID: 11400000, guid: e0055be1f8cc5f643b74aac6e88bea82, type: 2}
+  hairColorList: {fileID: 11400000, guid: f3c082f7a42f8de4bb2975dccf09f28d, type: 2}
+  pupilsColorList: {fileID: 11400000, guid: 0b427e9ec54e6434bbd0945d848c8703, type: 2}
+  faceShapesMale:
+  - {fileID: 2800000, guid: 7390f435f230e9040bdf62a239942f95, type: 3}
+  faceShapesFemale:
+  - {fileID: 2800000, guid: bb54a47fa320d5a4da8bac9eed92fd06, type: 3}
+  nosePartsMale:
+  - {fileID: 2800000, guid: 02dc54e5b4c579849b53bdfd2e0be79c, type: 3}
+  nosePartsFemale:
+  - {fileID: 2800000, guid: 1973f74f1337da848944f9e74dda1b79, type: 3}
+  mouthPartsMale:
+  - {fileID: 2800000, guid: 0b81e49de4d3a0e4c8d01dce1cff6ea7, type: 3}
+  mouthPartsFemale:
+  - {fileID: 2800000, guid: 38bf363410786e4428b9b6a209c4d68f, type: 3}
+  eyesPartsMale:
+  - {fileID: 2800000, guid: 324abc98e52f20b4b9c0e10d28147e04, type: 3}
+  eyesPartsFemale:
+  - {fileID: 2800000, guid: 0dd4fe89e932e884f98908e542712e86, type: 3}
+  pupilsPartsMale:
+  - {fileID: 2800000, guid: c71b9b3093e728a47b326a58f0aeeb9e, type: 3}
+  pupilsPartsFemale:
+  - {fileID: 2800000, guid: c71b9b3093e728a47b326a58f0aeeb9e, type: 3}
+  eyeBrowsMale:
+  - {fileID: 2800000, guid: c426a13f4b542fd4581dc405661a4822, type: 3}
+  eyeBrowsFemale:
+  - {fileID: 2800000, guid: 348f776f03acd1245b14691b1fa0c534, type: 3}
+  hairMale:
+  - {fileID: 2800000, guid: 56a771805255da94384a4de6f7166081, type: 3}
+  - {fileID: 2800000, guid: 86c3edfb6dce51648b9b791b1e4b5998, type: 3}
+  - {fileID: 2800000, guid: 28b69162401970745b77506f2f0e6eab, type: 3}
+  - {fileID: 2800000, guid: 090c841e5a1630b41b81bf3c278a85a3, type: 3}
+  hairFemale:
+  - {fileID: 2800000, guid: 3eeefcf2fb0717a4e8ed5f67ecea0379, type: 3}
+  - {fileID: 2800000, guid: 11651ef9ecd004c46915db5d62c68b6a, type: 3}
+  - {fileID: 2800000, guid: a38334a4206cb814aa0fe3a9868d4fc2, type: 3}
+  - {fileID: 2800000, guid: 12faa95b7f677ac4692ca1046e6b2060, type: 3}
+  - {fileID: 2800000, guid: 06af900bc8cf9d64f9a47878e34f6cb6, type: 3}
+  facialHairMale:
+  - {fileID: 2800000, guid: 40b3a09417ed2394591525637402c747, type: 3}
+  - {fileID: 2800000, guid: 24d9508526e9c1647a03b74448dd29db, type: 3}
+  - {fileID: 2800000, guid: 86833b80155789d4fb3385725f5b2fa2, type: 3}
+  maleBaldChance: 15
+  femaleBaldChance: 5
+  facialHairChance: 30

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main/MainMenu.unity
+    guid: b516302f3d2b4274d9a9cdbe7126bd79
+  - enabled: 1
+    path: Assets/Scenes/Main/FactionCreator.unity
+    guid: 3091b4165168cbf4f9765d830bef412c
+  - enabled: 1
+    path: Assets/Scenes/Main/CampaignMain.unity
+    guid: ae9dd85f03a393e49a83df8c3e339487
+  - enabled: 1
+    path: Assets/Scenes/Main/Characters.unity
+    guid: 3cec478721795c84bbaf71110b6c618b
+  m_configObjects: {}

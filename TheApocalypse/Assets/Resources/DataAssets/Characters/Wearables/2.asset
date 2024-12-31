@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d67126cbf0f765a4181febd8447ab408, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: 
+  id: 2
+  clothes:
+  - {fileID: 11400000, guid: f07f8d078f157784e98b94e73325e44a, type: 2}
+  - {fileID: 11400000, guid: d1b9b5395f7483c4698525a2f83f26d2, type: 2}
+  - {fileID: 11400000, guid: fb7efdf8a4d27164796d53ad20c23129, type: 2}
+  - {fileID: 11400000, guid: 9d43af0ec1e3f3340a4abafcb81b4a3e, type: 2}
+  armors:
+  - {fileID: 11400000, guid: 35f3359668af17f4e80c4b122a2e3e17, type: 2}
+  shoulderPads:
+  - {fileID: 11400000, guid: 4f3f4a702db40a64e9e27523e69a6b56, type: 2}
+  masks:
+  - {fileID: 11400000, guid: 46f098b6d1d76284b87dab193579a620, type: 2}
+  - {fileID: 11400000, guid: 088dca1fade0a71429578f0513945109, type: 2}
+  - {fileID: 11400000, guid: e43cdf7c403e7544f8187d5c373db71e, type: 2}
+  helmets:
+  - {fileID: 11400000, guid: da1cbe529df1bd24490a644d8cbc12d4, type: 2}
+  paintAndTattoos:
+  - {fileID: 11400000, guid: 7e8f13da583263645ae9e39841dc2761, type: 2}
+  - {fileID: 11400000, guid: a88a1b75120b8cd4e8787476f9dad1a5, type: 2}
+  - {fileID: 11400000, guid: f10497c06c57a634693d5fd0e7ab4fb3, type: 2}
+  - {fileID: 11400000, guid: edc313773d279f74a92aed95bebec306, type: 2}
+  - {fileID: 11400000, guid: b6cb6ccc6f1a1f04a98a6c891bbd63cd, type: 2}
+  - {fileID: 11400000, guid: 6e3a5875221afd44b917dd7ecabca094, type: 2}
+  - {fileID: 11400000, guid: 034e1b87affeec54e93b7f2f987d20a7, type: 2}
+  wounds:
+  - {fileID: 11400000, guid: 6be5eab0ae314344e80aa3f43cdfe319, type: 2}
+  - {fileID: 11400000, guid: 065b79d2d1256b944ade421cc994f66d, type: 2}
+  - {fileID: 11400000, guid: ad5bafe6092998648beb531b000c4e32, type: 2}

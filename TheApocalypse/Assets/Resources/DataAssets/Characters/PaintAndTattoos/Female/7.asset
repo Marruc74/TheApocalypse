@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83a17ca1187423c4e8b9a4f0d230d949, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  id: 7
+  appearanceDetailName: PaintAndTattoo7
+  texture: {fileID: 2800000, guid: f81aea98600b2464d9f22a30bc37b8fa, type: 3}
+  alwaysKeepColor: 0
+  colorList: {fileID: 11400000, guid: db3b5e3403d0d374bb222028b1fb8103, type: 2}

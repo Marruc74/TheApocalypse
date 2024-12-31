@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e009f6a649ea66044b5420e52a75f9f7, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  id: 1
+  settlementTypeName: Warehouse
+  image: {fileID: 2800000, guid: 40f8f59216c9e334b95199192efa41fd, type: 3}
+  xSize: 5
+  zSize: 8
+  floor: {fileID: 1157630938709996, guid: 0905278cad7914248ab8414e71dad4cd, type: 2}

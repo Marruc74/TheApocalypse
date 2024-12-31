@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f1b4b610a26b74991079d48b561823, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: 
+  id: 1
+  regionName: Temperate Suburb
+  mainEthnicity: {fileID: 11400000, guid: 435c1ce87aa6b8146bd2c41910d6ce42, type: 2}
+  mainWorkClass: {fileID: 11400000, guid: e1c8dda6f1e641a44a715c1f96fcb6df, type: 2}
+  ethnicities:
+  - data: {fileID: 11400000, guid: f3096c559fc4bd2458ba0344e330530d, type: 2}
+    chance: 8
+  - data: {fileID: 11400000, guid: cef11cf044884e84dab9449d5564107a, type: 2}
+    chance: 8
+  - data: {fileID: 11400000, guid: ef2da9a0b0c41844d8e1838faf6338dd, type: 2}
+    chance: 6
+  - data: {fileID: 11400000, guid: ec9e6202fa246eb4d8e966c343343d20, type: 2}
+    chance: 8
+  workClasses:
+  - data: {fileID: 11400000, guid: eb66f7d090c6a434dae224e299e86e7f, type: 2}
+    chance: 30
+  - data: {fileID: 11400000, guid: c20f09b923803a84981a7c61b8aa5087, type: 2}
+    chance: 10
+  - data: {fileID: 11400000, guid: bf3dbefa28bca2b4abfc409d2cdb3758, type: 2}
+    chance: 5
+  - data: {fileID: 11400000, guid: aaca5a330fc30f34b84ed36d5837dd7b, type: 2}
+    chance: 5
+  - data: {fileID: 11400000, guid: 743a3a6c753e4a24d8284dd1a151afcd, type: 2}
+    chance: 3
+  image: {fileID: 2800000, guid: b623652fac898cf4fa9ae2d618bd6657, type: 3}
